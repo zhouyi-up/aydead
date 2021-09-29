@@ -33,7 +33,6 @@ struct HanldeContent: View {
                 }
                 .padding()
             }
-            Spacer()
             HStack {
                 Button(action:{
                     self.showAlert = true
@@ -49,9 +48,9 @@ struct HanldeContent: View {
                     Alert(title: Text("提示"), message: Text("你死不死呀你！"), dismissButton: .default(Text("死")))
                 }
                 .padding()
-                
                 Spacer()
             }
+            Spacer()
         }
     }
 }

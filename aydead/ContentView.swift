@@ -21,7 +21,7 @@ struct ContentView: View {
             HandleView()
                 .tabItem{
                     Label("业务办理", systemImage: "pills.fill")
-                }
+                }.tag(Tab.hanlde)
             AboutView()
                 .tabItem{
                     Label("关于", systemImage: "level.fill")

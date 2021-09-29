@@ -310,7 +310,7 @@
 				CODE_SIGN_STYLE = Automatic;
 				CURRENT_PROJECT_VERSION = 1;
 				DEVELOPMENT_ASSET_PATHS = "\"aydead/Preview Content\"";
-				DEVELOPMENT_TEAM = 4A23S99L73;
+				DEVELOPMENT_TEAM = H9367MA3Q4;
 				ENABLE_PREVIEWS = YES;
 				GENERATE_INFOPLIST_FILE = YES;
 				INFOPLIST_KEY_CFBundleDisplayName = "死了么";
@@ -325,7 +325,7 @@
 					"@executable_path/Frameworks",
 				);
 				MARKETING_VERSION = 1.0;
-				PRODUCT_BUNDLE_IDENTIFIER = cn.jtools.aydead;
+				PRODUCT_BUNDLE_IDENTIFIER = cn.jtools.aydead2;
 				PRODUCT_NAME = aydead;
 				SWIFT_EMIT_LOC_STRINGS = YES;
 				SWIFT_VERSION = 5.0;
@@ -342,7 +342,7 @@
 				CODE_SIGN_STYLE = Automatic;
 				CURRENT_PROJECT_VERSION = 1;
 				DEVELOPMENT_ASSET_PATHS = "\"aydead/Preview Content\"";
-				DEVELOPMENT_TEAM = 4A23S99L73;
+				DEVELOPMENT_TEAM = H9367MA3Q4;
 				ENABLE_PREVIEWS = YES;
 				GENERATE_INFOPLIST_FILE = YES;
 				INFOPLIST_KEY_CFBundleDisplayName = "死了么";
@@ -357,7 +357,7 @@
 					"@executable_path/Frameworks",
 				);
 				MARKETING_VERSION = 1.0;
-				PRODUCT_BUNDLE_IDENTIFIER = cn.jtools.aydead;
+				PRODUCT_BUNDLE_IDENTIFIER = cn.jtools.aydead2;
 				PRODUCT_NAME = aydead;
 				SWIFT_EMIT_LOC_STRINGS = YES;
 				SWIFT_VERSION = 5.0;
